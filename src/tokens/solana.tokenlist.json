@@ -66668,8 +66668,18 @@
       "tags": [
         "social-token"
       ]
-    }
-  ],
+    },
+    {
+      "chainId": 101,
+      "address": "D7cuFEEPBHAvJuhXht9gsirXssmAnaDWnitUJyfQUTaG",
+      "symbol": "GNKN",
+      "name": "Green Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Greenjuicesystems22/CryptoGreen/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
   "version": {
     "major": 0,
     "minor": 3,
